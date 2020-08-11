@@ -1,8 +1,14 @@
 # Algorithm
 Algorithm with Javascript
 
-## FizzBuzz
-add fizzbuzz algorithm
+## ✨FizzBuzz
+Add fizzbuzz Algorithm
 
-## Binary Search
+## 🎈 Binary Search
 Add Binary Search Algorithm
+
+## 🧩 Harmless
+Add Harmless Algorithm
+
+## 🔧 palindrome
+Add palidrome Algorithm
