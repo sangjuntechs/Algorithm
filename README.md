@@ -24,3 +24,8 @@ Add palidrome Algorithm
 
 특정 문자열의 앞 혹은 뒤로 읽어도 같은지를 판단하는 알고리즘.
 정교식을 이용하여 필요없는 특수문자와 공백 삭제.
+
+## 🎀 dayFind 2016
+Add dayFind 2016 years Algorithm
+
+2016년 a월 b일의 요일이 무슨 요일인지를 찾는 알고리즘.
