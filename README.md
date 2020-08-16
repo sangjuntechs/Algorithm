@@ -29,3 +29,8 @@ Add palidrome Algorithm
 Add dayFind 2016 years Algorithm
 
 2016년 a월 b일의 요일이 무슨 요일인지를 찾는 알고리즘.
+
+## 🎄QuickSort
+Add QuickSort Algorithm
+
+분할 정봅방법과 재귀를 통해 리스트를 정렬하는 알고리즘.
